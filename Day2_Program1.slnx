@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Day2_Case Study/Day2_Case Study.csproj" />
   <Project Path="Day2_Program1/Day2_Program1.csproj" />
   <Project Path="Day2_Program2/Day2_Program2.csproj" />
 </Solution>
