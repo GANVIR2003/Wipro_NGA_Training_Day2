@@ -47,4 +47,3 @@ foreach (var item in orderCollection)
     Console.WriteLine($"(item) Type: (item.GetType())");
 }
 
-
